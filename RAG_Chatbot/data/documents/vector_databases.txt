@@ -1,0 +1,3 @@
+Vector databases store embeddings (numerical vector representations) of text or images. 
+They are optimized for fast similarity search using metrics like cosine similarity or L2 distance. 
+Popular vector DBs include FAISS, Chroma, and Pinecone.

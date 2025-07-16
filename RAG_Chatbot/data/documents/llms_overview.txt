@@ -1,0 +1,3 @@
+Large Language Models (LLMs) are deep learning models trained on massive datasets of text. 
+They are capable of understanding and generating human-like text, answering questions, summarizing documents, and more. 
+Examples include GPT-3, GPT-4, and Google's PaLM.
